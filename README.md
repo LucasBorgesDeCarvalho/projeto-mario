@@ -7,5 +7,3 @@
 height="135" width="150"
 target="_blank"></a>
 
-<a href="">
-
